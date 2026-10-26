@@ -1,0 +1,39 @@
+{
+  "prenda": "Capa española clásica",
+  "talla": "base 175 cm de altura",
+  "medidas": {
+    "perimetro_cuello": 38.0,
+    "largo_capa": 95.0,
+    "largo_capillo": 30.0
+  },
+  "radios_derivados_cm": {
+    "r_cuello": 6.0,
+    "R_cuerpo": 101.0,
+    "R_capillo": 36.0
+  },
+  "perimetro_bajo_cm": 317.0,
+  "piezas": [
+    [
+      "CUERPO",
+      "1 al doblez",
+      "paño guinda 500 g/m2"
+    ],
+    [
+      "CAPILLO",
+      "1 al doblez",
+      "paño guinda"
+    ],
+    [
+      "CORDON",
+      "1",
+      "terciopelo guinda 95x3"
+    ],
+    [
+      "GALON",
+      "a medida",
+      "cinta dorada 317 x 4 cm"
+    ]
+  ],
+  "consumo_tela_m": 2.53,
+  "ancho_tela_cm": 140.0
+}

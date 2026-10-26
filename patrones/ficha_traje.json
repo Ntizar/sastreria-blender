@@ -1,0 +1,53 @@
+{
+  "prenda": "Traje de boda/oficina (azul marino)",
+  "talla": "base 175 cm de altura",
+  "medidas_cm": {
+    "pecho": 96.0,
+    "cintura": 78.0,
+    "cadera": 100.0,
+    "largo_chaqueta": 58.0,
+    "largo_manga": 60.0,
+    "largo_pantalon": 104.0
+  },
+  "piezas": [
+    {
+      "pieza": "ESPALDA",
+      "ancho": 27.5,
+      "largo": 58.0,
+      "corte": "CORTE 1 AL DOBLEZ"
+    },
+    {
+      "pieza": "DELANTERO",
+      "ancho": 30.6,
+      "largo": 58.0,
+      "corte": "CORTE 2"
+    },
+    {
+      "pieza": "MANGA",
+      "ancho": 38.0,
+      "largo": 69.7,
+      "corte": "CORTE 2"
+    },
+    {
+      "pieza": "PANTALON DELANTERO",
+      "ancho": 23,
+      "largo": 104.0,
+      "corte": "CORTE 2"
+    },
+    {
+      "pieza": "PANTALON TRASERO",
+      "ancho": 27,
+      "largo": 110.0,
+      "corte": "CORTE 2"
+    },
+    {
+      "pieza": "CINTURA",
+      "ancho": 84.0,
+      "largo": 4,
+      "corte": "CORTE 1"
+    }
+  ],
+  "consumo_tela_m": 2.53,
+  "ancho_tela_cm": 140.0,
+  "nota": "Bloque base simplificado: moulage y pinzas de ajuste requieren prueba sobre maniquí."
+}
